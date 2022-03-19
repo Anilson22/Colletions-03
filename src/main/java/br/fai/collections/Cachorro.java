@@ -8,6 +8,11 @@ public class Cachorro extends Animal{
 	}
 
 	public void oQueGostoDeFazer() {
-		System.out.println("Morder carteiros");
+		System.out.println("Eu Gosto de Morder os carteiros");
 	}
+	
+	public void som() {
+		System.out.println("Eu gosto de Latir");
+	}
+
 }
