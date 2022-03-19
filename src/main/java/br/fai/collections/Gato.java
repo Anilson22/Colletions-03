@@ -7,7 +7,11 @@ public class Gato extends Animal {
 	
 	}
 	
+	
    public void oQueFacoDuranteANoite() {
 	   System.out.println("Gosto de pular a cerca toda noite");
    }
+   public void som() {
+	System.out.println("Eu gosto de Miar");
+}
 }
