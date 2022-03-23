@@ -1,4 +1,4 @@
-package br.fai.collections;
+package br.fai.models;
 
 public class Animal {
 	private String nome;
